@@ -16,3 +16,5 @@ git branch -a
 git switch other-branch
 
 git checkout other-branch
+
+git clone <REMOTE_URL>
