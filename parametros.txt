@@ -10,3 +10,9 @@ python manage.py startapp app
 
 ejecute
 python -m django startapp app
+
+git branch -a
+
+git switch other-branch
+
+git checkout other-branch
