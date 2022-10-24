@@ -1,0 +1,12 @@
+superusuario
+
+username:instructor
+email: instructor.sena.cba@gmail.com
+password: Cba@2022
+
+
+si falla el comando:
+python manage.py startapp app
+
+ejecute
+python -m django startapp app
